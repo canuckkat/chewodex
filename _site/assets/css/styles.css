@@ -1,0 +1,24 @@
+/** Fonts **/
+h1 { font-family: "Droid Sans"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; }
+
+h3 { font-family: "Droid Sans"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }
+
+p { font-family: "Droid Sans"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+
+blockquote { font-family: "Droid Sans"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; }
+
+pre { font-family: "Droid Sans"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+
+.current { color: green; }
+
+.nav { text-transform: uppercase; }
+
+.nav a { text-decoration: none; display: inline-block; padding: .5em; }
+
+.nav a:first-child { padding-left: 0; }
+
+.nav a:hover { text-decoration: underline; }
+
+body { padding: 2em; }
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,38 @@
+---
+layout: recipe
+title: Air Fryer Chicken Tenders
+tags: bake, chicken, gluten-free
+uri: https://enjoycleaneating.com/air-fryer-chicken-tenders/
+---
+# Ingredients
+* 1.5 lbs chicken tenders
+* salt and black pepper
+* ½ cup grated parmesan cheese
+* 1 tablespoon paprika
+* 1 teaspoon garlic powder
+* 1 teaspoon oregano
+* ¼ teaspoon ground thyme (optional)
+* ¼ teaspoon ground mustard (optional)
+* 1 tablespoon unsalted Italian seasoning
+
+# Instructions
+1. In a small bowl combine the parmesan cheese, paprika, garlic powder, oregano, thyme, mustard and Italian seasoning, set aside.
+
+2. Season chicken tenders with salt and black pepper to taste, roll the chicken tenders into the mix until well coated.
+
+3. Place the chicken tender inside of the air fryer basket, put the basket into the inner pot, place the air fryer lid on top. Set the temperature Air fry to 385F for 12 minutes.
+
+<mark>Make sure the Instant Pot pressure cooker isn’t plugged in.</mark>
+
+4. The instant pot air fryer lid will pause in the middle of the cooking time and tell you when it is time to flip your chicken tenders, flip the chicken tenders, and place the lid back on.
+
+(If you don’t open the lid, it will resume cooking on its own.)
+
+Once the time is done, open your instant pot air fryer lid, remove the chicken tenders and repeat with the remainingtenders.
+
+Serve to your liking.
+
+# NOTES
+* If you want the chicken tenders crispier, cook for extra 5 minutes on 400F air fry, but be aware the tenders could be on the dry side.
+
+* You can omit the grated cheese and cook the chicken tenders with just the seasoning.
