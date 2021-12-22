@@ -12,13 +12,8 @@ pre { font-family: "Droid Sans"; font-size: 13px; font-style: normal; font-varia
 .current { color: green; }
 
 .nav { text-transform: uppercase; }
-
 .nav a { text-decoration: none; display: inline-block; padding: .5em; }
-
 .nav a:first-child { padding-left: 0; }
-
 .nav a:hover { text-decoration: underline; }
 
 body { padding: 2em; }
-
-/*# sourceMappingURL=styles.css.map */
