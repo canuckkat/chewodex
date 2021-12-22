@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Air Fryer Chicken Tenders
-tags: bake, chicken, gluten-free
+tags: bake, chicken, gluten-free, air fry, instant pot
 uri: https://enjoycleaneating.com/air-fryer-chicken-tenders/
 ---
 # Ingredients
@@ -24,11 +24,11 @@ uri: https://enjoycleaneating.com/air-fryer-chicken-tenders/
 
 <mark>Make sure the Instant Pot pressure cooker isn’t plugged in.</mark>
 
-4. The instant pot air fryer lid will pause in the middle of the cooking time and tell you when it is time to flip your chicken tenders, flip the chicken tenders, and place the lid back on.
+4. The Instant Pot air fryer lid will pause in the middle of the cooking time and tell you when it is time to flip your chicken tenders, flip the chicken tenders, and place the lid back on.
 
 (If you don’t open the lid, it will resume cooking on its own.)
 
-Once the time is done, open your instant pot air fryer lid, remove the chicken tenders and repeat with the remainingtenders.
+Once the time is done, open your Instant Pot air fryer lid, remove the chicken tenders and repeat with the remaining tenders.
 
 Serve to your liking.
 
