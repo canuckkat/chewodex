@@ -214,3 +214,12 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
   .downloads { width: 99%; }
   .downloads li, .downloads li + li + li { width: 33%; } }
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
+.nav { text-transform: uppercase; }
+.nav a:hover { text-decoration: underline; }
+.nav a small { text-transform: none; }
+
+.nav-list { list-style: none; padding-left: 0; }
+
+/* body { padding: 2em;
+} */
+body.recipes h3.recipe-title { margin-bottom: 0; }
