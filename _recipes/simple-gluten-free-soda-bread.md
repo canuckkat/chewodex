@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Simple Gluten-Free Soda Bread
-tags: bake, bread, gluten-free, air fry, instant pot
+tags: bake bread gluten-free air-fry instant-pot
 uri: https://missvickie.com/instant-pot-gluten-free-bread/
 ---
 # Ingredients

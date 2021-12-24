@@ -5,7 +5,7 @@ prep_time: 20 mins
 cook_time: 25 mins
 total_time: 55 mins
 servings: 6
-tags: instant pot, chicken, gluten-free
+tags: instant-pot chicken gluten-free
 uri: https://www.allrecipes.com/recipe/264362/instant-pot-chicken-pot-pie-crustless-and-gluten-free/
 ---
 # Ingredients

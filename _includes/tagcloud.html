@@ -1,9 +1,9 @@
-<h2>Tag Cloud</h2>
-{% assign tags = site.tags | sort %}
+<!-- <h2>Tags</h2> -->
+<div class="tagcloud">
+{% assign tags = site.recipes | map: 'tags' | uniq % | sort %}
+<ul class="cloud">
 {% for tag in tags %}
-<span class="site-tag">
-    <a href="/tag/{{ tag | first | slugify }}/" style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-        {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-    </a>
-</span>
+    <li class="tag{{ tag.size }}"><a href="/tag/{{ tag | slugify }}/">{{ tag | replace:'-', ' ' }}</a></li>
 {% endfor %}
+</ul>
+</div>

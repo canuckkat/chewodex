@@ -1,2 +1,6 @@
 /.jekyll-cache
 /Gemfile.lock
+/.sass-cache
+*.bak
+*.lock
+/_site/chewodex.code-workspace
