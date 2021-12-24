@@ -4,11 +4,10 @@ title: Recipes
 ---
 <h1>Recipes</h1>
 
-<ul>
-  {% for recipe in site.recipes %}
-    <li>
-      <h2><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h2>
-      <!-- {{ recipe.excerpt }} -->
-    </li>
-  {% endfor %}
-</ul>
+{% for recipe in site.recipes %}
+<h3 class="recipe-title"><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h3>
+<p>
+  Servings: {{ recipe.servings }} | Prep Time: {{ recipe.prep_time }} | Cook Time: {{ recipe.cook_time }} | Total Time: {{ recipe.total_time }}
+  <!-- {{ recipe.excerpt }} -->
+</p>
+{% endfor %}

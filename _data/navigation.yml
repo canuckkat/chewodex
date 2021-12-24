@@ -1,8 +1,12 @@
 - name: Home
+  description: E.T. phone home.
   link: /
 - name: About
+  description: What is this site?
   link: /about.html
 # - name: Blog
+  # description: Blog Posts
   # link: /blog.html
 - name: Recipes
+  description: Where yummy things live :D
   link: /recipes.html
