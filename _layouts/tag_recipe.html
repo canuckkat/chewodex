@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="post">
+    <h2 class="page-title">{% if page.tag == blank %}All Recipe Tags{% else %}Tag: {{ page.tag }}{% endif %}</h2>
+{% if page.tag == "recipe-hololens" %}{% assign tags = site.recipes | map: 'tags' | uniq | sort %}
+<ul>{% for tag in tags %}{% if tag != blank %}
+    <li><h3 class="tag-name">{{ tag | replace:'-', ' ' }}</h3>
+        <ul>{% for post in site.recipes %}{% if post.tag != blank %}{% if post.tag == tag %}
+            <li>
+                <!-- <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%d/%m/%Y"}}</time> -->
+                <a href='{{post.url}}'>{{post.title}}</a>
+            </li>{% endif %}{% endif %}{% endfor %}
+        </ul>
+    </li>{% endif %}{% endfor %}
+</ul>
+{% else %}<ul>{% for post in site.recipetags[page.tag] %}
+    <li>
+        <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%d/%m/%Y"}}</time>
+        <a href='{{post.url}}'>{{post.title}}</a>
+    </li>{% endfor %}
+</ul>{% endif %}
+
+    <!-- <p><a href="/tags/">view all tags</a></p> -->
+</div>
