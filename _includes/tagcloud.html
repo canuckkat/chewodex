@@ -1,11 +1,11 @@
 <!-- <h2>Tags</h2> -->
 <div class="tagcloud">
-{% if page.title == 'Recipes' %}
+{% comment %}{% page.title == 'Recipes' %}{% endcomment %}
 {% assign tags = site.recipes | map: 'tags' | uniq | sort %}
 <ul class="cloud">
 {% for tag in tags %}{% if tag != 'archive' %}
     <li class="tag{{ tag.size }}"><a href="{{ tag | slugify | prepend: '/recipes/tag/' | relative_url }}/">{{ tag | replace:'-', ' ' }}</a></li>
 {% endif %}{% endfor %}
 </ul>
-{% endif %}
+{% comment %}{% end %}{% endcomment %}
 </div>
