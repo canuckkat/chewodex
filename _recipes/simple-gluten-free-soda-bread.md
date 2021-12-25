@@ -14,6 +14,7 @@ uri: https://missvickie.com/instant-pot-gluten-free-bread/
 * 2 cups water <mark>FOR THE POT</mark>
 
 # Instructions
+
 1. Pour the water into the Instant Pot
 
 2. Prepare your loaf pan and mix all the dry ingredients together. Mix in the yogurt and olive oil. Knead together gently until everything is combined then press the dough into the loaf pan.
