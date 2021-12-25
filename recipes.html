@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Recipes
+permalink: /recipes/
 ---
-<h1>Recipes</h1>
+<h1>{{ page.title }}</h1>
 
-{% for recipe in site.recipes %}
+{% for recipe in site.recipes %}{% unless recipe.tags contains 'archive' %}
 <h3 class="recipe-title"><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h3>
 <p>
   Servings: {{ recipe.servings }} | Prep Time: {{ recipe.prep_time }} | Cook Time: {{ recipe.cook_time }} | Total Time: {{ recipe.total_time }}
   <!-- {{ recipe.excerpt }} -->
 </p>
-{% endfor %}
+{% endunless %}{% endfor %}

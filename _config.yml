@@ -9,6 +9,8 @@ collections:
   recipes:
     output: true
 
+permalink: pretty
+
 # jekyll-archives:
 #   enabled:
 #     # - year

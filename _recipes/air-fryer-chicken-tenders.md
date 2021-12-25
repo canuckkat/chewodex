@@ -5,7 +5,7 @@ prep_time: 5 mins
 cook_time: 12 mins
 total_time: 17 mins
 servings: 6
-tags: bake chicken gluten-free air-fry instant-pot
+tags: baking chicken gluten-free air-fry instant-pot
 uri: https://enjoycleaneating.com/air-fryer-chicken-tenders/
 ---
 # Ingredients
