@@ -1,0 +1,7 @@
+<p class="recipe-info">
+    Servings: {{ include.servings }}
+{% if include.preptime %} | Prep Time: {{ include.preptime }}{% endif %}
+{% if include.cooktime %} | Cook Time: {{ include.cooktime }}{% endif %}
+{% if include.totaltime %} | Total Time: {{ include.totaltime }}{% endif %}
+    <!-- {{ recipe.excerpt }} -->
+</p>

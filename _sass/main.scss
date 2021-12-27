@@ -2,6 +2,14 @@
   padding: 2em;
 } */
 
+.recipe-title {
+  a {
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 body.recipes {
   h3.recipe-title {
     margin-bottom: 0;
@@ -16,14 +24,23 @@ body.recipes {
   list-style: none;
   padding-left: 0;
 
-  a {
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-
   .tag-name {
     margin-bottom: 3px;
+  }
+}
+
+.recipe-tags {
+  margin: .25em;
+}
+
+.recipe {
+  .task-list {
+    list-style: none;
+    padding-left: 0;
+
+    .task-list-item-checkbox {
+      margin-right: 6px;
+    }
   }
 }
 

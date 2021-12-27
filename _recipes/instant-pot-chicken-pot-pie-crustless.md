@@ -10,20 +10,20 @@ uri: https://www.allrecipes.com/recipe/264362/instant-pot-chicken-pot-pie-crustl
 ---
 # Ingredients
 
-* 1 ½ pounds chicken tenders, cubed
-* 1 ½ cups chicken broth
-* 1 ½ cups diced carrots
-* 1 ½ cups diced celery
-* 1 cup corn kernels
-* 1 large onion, diced
-* 1 teaspoon salt
-* 1 teaspoon garlic powder
-* 1 teaspoon onion powder
-* 1 teaspoon ground black pepper
-* 1 teaspoon poultry seasoning
-* ½ teaspoon dried thyme
-* 1 cup heavy cream
-* ½ cup frozen peas
+- [ ] 1 ½ lbs chicken tenders, cubed
+- [ ] 1 ½ cups chicken broth
+- [ ] 1 ½ cups diced carrots
+- [ ] 1 ½ cups diced celery
+- [ ] 1 cup corn kernels
+- [ ] 1 large onion, diced
+- [ ] 1 tsp salt
+- [ ] 1 tsp garlic powder
+- [ ] 1 tsp onion powder
+- [ ] 1 tsp ground black pepper
+- [ ] 1 tsp poultry seasoning
+- [ ] ½ tsp dried thyme
+- [ ] 1 cup heavy cream
+- [ ] ½ cup frozen peas
 
 # Directions
 

@@ -6,9 +6,14 @@ permalink: /recipes/
 <h1>{{ page.title }}</h1>
 
 {% for recipe in site.recipes %}{% unless recipe.tags contains 'archive' %}
-<h3 class="recipe-title"><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h3>
-<p>
-  Servings: {{ recipe.servings }} | Prep Time: {{ recipe.prep_time }} | Cook Time: {{ recipe.cook_time }} | Total Time: {{ recipe.total_time }}
-  <!-- {{ recipe.excerpt }} -->
-</p>
+<div class="recipe">
+{%comment%}
+{% if recipe.srcset %}
+  <div class="recipe-img-wrapper"><img srcset="{{ recipe.srcset | split: ',' | prepend: '/assets/img/recipes/' | relative_url | join: ',' }}" src="{{ recipe.srcset | split: ',' | pop | join: ''| split: ' ' | pop | join: '' | prepend: '/assets/img/recipes/' | relative_url }}" width="200px" alt="{{ recipe.title }}" class="recipe-img"></div>
+  {% endif %}
+{%endcomment%}
+  <h3 class="recipe-title"><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h3>
+  {% include recipe-tags-icons.html tags=recipe.tags %}
+  {% include recipe-info.html servings=recipe.servings preptime=recipe.prep_time cooktime=recipe.cook_time totaltime=recipe.total_time %}
+</div>
 {% endunless %}{% endfor %}

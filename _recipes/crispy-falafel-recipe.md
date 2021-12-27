@@ -10,19 +10,19 @@ uri: https://thebellyrulesthemind.net/vegan-gluten-free-falafel-recipe/
 ---
 # Ingredients
 
-* 2 cups dried chickpeas or garbanzo beans
-* 1 cup fresh parsley
-* 1 onion, cut into 4
-* 1/4 cup fresh cilantro, stems removed
-* 6 garlic cloves , peeled
-* 3/4 cup fresh dill leaves, stems removed
-* salt to taste
-* 1 tablespoon cumin powder
-* 1 teaspoon baking powder
-* 1 tablespoon coriander powder
-* 1 teaspoon cayenne powder
-* 3 tablespoon olive oil
-* 2 tablespoon sesame seeds (optional)
+- [ ] 2 cups dried chickpeas or garbanzo beans
+- [ ] 1 cup fresh parsley
+- [ ] 1 onion, cut into 4
+- [ ] ¼ cup fresh cilantro, stems removed
+- [ ] 6 garlic cloves , peeled
+- [ ] ¾ cup fresh dill leaves, stems removed
+- [ ] salt to taste
+- [ ] 1 Tbsp cumin powder
+- [ ] 1 tsp baking powder
+- [ ] 1 Tbsp coriander powder
+- [ ] 1 tsp cayenne powder
+- [ ] 3 Tbsp olive oil
+- [ ] 2 Tbsp sesame seeds (optional)
 
 # Instructions
 
