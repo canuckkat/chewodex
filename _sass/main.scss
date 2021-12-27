@@ -1,3 +1,5 @@
+@use "sass:math";
+
 /* body {
   padding: 2em;
 } */
@@ -65,7 +67,8 @@ $colorDarkBlue: #0B61A4;
     // margin:1px 10px;
     padding: 1px 20px 1px 0;
     // font-size:14px;
-    min-height:35px;
+    // min-height:35px;
+    height:30px;
     line-height:30px;
 
     a {
@@ -93,7 +96,11 @@ $colorDarkBlue: #0B61A4;
   // Generate tag1 to tag25 classes
   @for $i from 1 through 25 {
     & li.tag#{$i} {
-      font-size: 0.1 * ($i - 1) + .75em;
+      $x: 0.1 * ($i - 1);
+      font-size: $x + 1.25em;
+      // make heights 1.5 bigger than font size, then round to 2 decimal places
+      line-height: decimal-round(($x + (14px * 1.25)) * 1.5, 2);
+      height: decimal-round(($x + (14px * 1.25)) * 1.5, 2);
     }
   }
 }

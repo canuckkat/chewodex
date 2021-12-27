@@ -220,6 +220,7 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 
 .nav-list { list-style: none; padding-left: 0; }
 
+@use "sass:math";
 /* body { padding: 2em;
 } */
 .recipe-title a:hover { text-decoration: underline; }
@@ -241,32 +242,32 @@ body.recipes h3.recipe-title { margin-bottom: 0; }
 .tagcloud { padding: 1em 1em 1em 0; }
 
 .cloud { list-style: none; width: 90%; padding: 0; }
-.cloud li { display: inline-block; padding: 1px 20px 1px 0; min-height: 35px; line-height: 30px; }
+.cloud li { display: inline-block; padding: 1px 20px 1px 0; height: 30px; line-height: 30px; }
 .cloud li a { text-decoration: none; color: #DB0058; font-family: Arial; font-weight: bold; transition: opacity 0.8s; -webkit-transition: opacity 0.8s; -moz-transition: opacity 0.8s; -o-transition: opacity 0.8s; }
 .cloud:hover li a { opacity: 0.3; }
 .cloud:hover li a:hover { color: #0B61A4; opacity: 1; }
-.cloud li.tag1 { font-size: 0.75em; }
-.cloud li.tag2 { font-size: 0.85em; }
-.cloud li.tag3 { font-size: 0.95em; }
-.cloud li.tag4 { font-size: 1.05em; }
-.cloud li.tag5 { font-size: 1.15em; }
-.cloud li.tag6 { font-size: 1.25em; }
-.cloud li.tag7 { font-size: 1.35em; }
-.cloud li.tag8 { font-size: 1.45em; }
-.cloud li.tag9 { font-size: 1.55em; }
-.cloud li.tag10 { font-size: 1.65em; }
-.cloud li.tag11 { font-size: 1.75em; }
-.cloud li.tag12 { font-size: 1.85em; }
-.cloud li.tag13 { font-size: 1.95em; }
-.cloud li.tag14 { font-size: 2.05em; }
-.cloud li.tag15 { font-size: 2.15em; }
-.cloud li.tag16 { font-size: 2.25em; }
-.cloud li.tag17 { font-size: 2.35em; }
-.cloud li.tag18 { font-size: 2.45em; }
-.cloud li.tag19 { font-size: 2.55em; }
-.cloud li.tag20 { font-size: 2.65em; }
-.cloud li.tag21 { font-size: 2.75em; }
-.cloud li.tag22 { font-size: 2.85em; }
-.cloud li.tag23 { font-size: 2.95em; }
-.cloud li.tag24 { font-size: 3.05em; }
-.cloud li.tag25 { font-size: 3.15em; }
+.cloud li.tag1 { font-size: 1.25em; line-height: 26.25px; height: 26.25px; }
+.cloud li.tag2 { font-size: 1.35em; line-height: 26.4px; height: 26.4px; }
+.cloud li.tag3 { font-size: 1.45em; line-height: 26.55px; height: 26.55px; }
+.cloud li.tag4 { font-size: 1.55em; line-height: 26.7px; height: 26.7px; }
+.cloud li.tag5 { font-size: 1.65em; line-height: 26.85px; height: 26.85px; }
+.cloud li.tag6 { font-size: 1.75em; line-height: 27px; height: 27px; }
+.cloud li.tag7 { font-size: 1.85em; line-height: 27.15px; height: 27.15px; }
+.cloud li.tag8 { font-size: 1.95em; line-height: 27.3px; height: 27.3px; }
+.cloud li.tag9 { font-size: 2.05em; line-height: 27.45px; height: 27.45px; }
+.cloud li.tag10 { font-size: 2.15em; line-height: 27.6px; height: 27.6px; }
+.cloud li.tag11 { font-size: 2.25em; line-height: 27.75px; height: 27.75px; }
+.cloud li.tag12 { font-size: 2.35em; line-height: 27.9px; height: 27.9px; }
+.cloud li.tag13 { font-size: 2.45em; line-height: 28.05px; height: 28.05px; }
+.cloud li.tag14 { font-size: 2.55em; line-height: 28.2px; height: 28.2px; }
+.cloud li.tag15 { font-size: 2.65em; line-height: 28.35px; height: 28.35px; }
+.cloud li.tag16 { font-size: 2.75em; line-height: 28.5px; height: 28.5px; }
+.cloud li.tag17 { font-size: 2.85em; line-height: 28.65px; height: 28.65px; }
+.cloud li.tag18 { font-size: 2.95em; line-height: 28.8px; height: 28.8px; }
+.cloud li.tag19 { font-size: 3.05em; line-height: 28.95px; height: 28.95px; }
+.cloud li.tag20 { font-size: 3.15em; line-height: 29.1px; height: 29.1px; }
+.cloud li.tag21 { font-size: 3.25em; line-height: 29.25px; height: 29.25px; }
+.cloud li.tag22 { font-size: 3.35em; line-height: 29.4px; height: 29.4px; }
+.cloud li.tag23 { font-size: 3.45em; line-height: 29.55px; height: 29.55px; }
+.cloud li.tag24 { font-size: 3.55em; line-height: 29.7px; height: 29.7px; }
+.cloud li.tag25 { font-size: 3.65em; line-height: 29.85px; height: 29.85px; }
