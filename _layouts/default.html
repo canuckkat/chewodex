@@ -12,7 +12,7 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
-  <body class="{{ page.title | downcase }}">
+  <body class="layout-{{ page.layout }} {{ page.title | slugify }}">
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -45,10 +45,8 @@
 
         {%comment%} {*% include taglisting.html %} {%endcomment%}
       </header>
-      <section>
-
+      <section class="post-content">
       {{ content }}
-
       </section>
       <footer>
         {% if site.github.is_project_page %}
@@ -59,5 +57,7 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 {% include footer-custom.html %}
+{% include cookie-consent.html %}
+{% if page.layout == 'recipe' %}{% include comments.html element=".recipe" github_account="canuckkat/chewodex" require_cookie_consent="true" %}{% endif %}
   </body>
 </html>

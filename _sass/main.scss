@@ -1,8 +1,32 @@
 @use "sass:math";
 
+$pink: #DB0058;
+$darkBlue: #0B61A4;
+$white: #fff;
+
 /* body {
   padding: 2em;
 } */
+
+body {
+  padding: 50px 0;
+  margin: 0;
+}
+
+.btn {
+  background: $darkBlue;
+  border-radius: 0.25rem;
+  border: 0;
+  padding: 0.35rem 0.7rem;
+  color: $white;
+  font-weight: 700;
+}
+
+.post-content {
+  h2, h3 {
+    margin-bottom: 6px;
+  }
+}
 
 .recipe-title {
   a {
@@ -36,7 +60,12 @@ body.recipes {
 }
 
 .recipe {
-  .task-list {
+
+  ul {
+    padding-left: 1.25em;
+  }
+
+  ul:first-of-type, .task-list {
     list-style: none;
     padding-left: 0;
 
@@ -45,7 +74,7 @@ body.recipes {
     }
   }
 
-  ol {
+  ol:first-of-type {
     padding-left: 1em;
   }
 }
@@ -53,9 +82,6 @@ body.recipes {
 /**
  Based on CSS by Maroun Baydoun: https://gist.github.com/maroun-baydoun/4188213
 **/
-$colorPink: #DB0058;
-$colorDarkBlue: #0B61A4;
-
 .tagcloud {
   padding: 1em 1em 1em 0;
 }
@@ -77,7 +103,7 @@ $colorDarkBlue: #0B61A4;
 
     a {
       text-decoration:none;
-      color: $colorPink;
+      color: $pink;
       font-family:Arial;
       font-weight:bold;
 
@@ -92,7 +118,7 @@ $colorDarkBlue: #0B61A4;
     opacity:0.3;
 
     &:hover {
-      color: $colorDarkBlue;
+      color: $darkBlue;
       opacity:1;
     }
   }
@@ -107,4 +133,8 @@ $colorDarkBlue: #0B61A4;
       height: decimal-round(($x + (14px * 1.25)) * 1.5, 2);
     }
   }
+}
+
+#cookie-notice {
+  font-size: .8rem;
 }
