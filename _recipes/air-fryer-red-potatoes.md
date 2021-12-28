@@ -6,6 +6,7 @@ cook_time: 10-20 mins
 # total_time: 20 mins
 servings: 4
 tags: baking ground-beef air-fry
+comment_issue_id: 7
 ---
 
 # Ingredients

@@ -7,6 +7,7 @@ cook_time: 20 mins
 servings: 4
 tags: baking ground-beef air-fry
 uri: https://www.tasteofhome.com/recipes/air-fryer-taco-twists/
+comment_issue_id: 6
 ---
 # Ingredients
 

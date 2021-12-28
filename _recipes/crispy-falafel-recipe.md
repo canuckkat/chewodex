@@ -7,6 +7,7 @@ total_time: 50 mins
 servings: 24 patties
 tags: baking vegan legumes gluten-free air-fry
 uri: https://thebellyrulesthemind.net/vegan-gluten-free-falafel-recipe/
+comment_issue_id: 3
 ---
 # Ingredients
 

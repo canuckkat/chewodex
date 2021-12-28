@@ -5,8 +5,9 @@ prep_time: 1 min
 cook_time: 10 mins
 total_time: 11 mins
 servings: 8 servings
-tags: vegetarian instant-pot
+tags: vegetarian instant-pot pasta
 uri: https://www.familyfreshmeals.com/2017/07/creamy-instant-pot-mac-and-cheese.html
+comment_issue_id: 10
 ---
 
 # Ingredients

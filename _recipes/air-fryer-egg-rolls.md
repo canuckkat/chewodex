@@ -7,6 +7,7 @@ total_time: 40 mins
 servings: 8 egg rolls
 tags: baking ground-pork air-fry asian
 uri: https://www.spendwithpennies.com/air-fryer-egg-rolls/
+comment_issue_id: 8
 ---
 
 # Ingredients

@@ -7,6 +7,7 @@ total_time: 20 mins
 servings: 4
 tags: cast-iron vegetarian
 uri: https://www.wellplated.com/sauteed-brussels-sprouts/
+comment_issue_id: 4
 ---
 # Ingredients
 

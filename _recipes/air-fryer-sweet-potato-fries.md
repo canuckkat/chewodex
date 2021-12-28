@@ -6,6 +6,7 @@ cook_time: 10-12 mins
 # total_time: 40 mins
 servings: 4 servings
 tags: baking vegan air-fry
+comment_issue_id: 9
 ---
 
 # Ingredients

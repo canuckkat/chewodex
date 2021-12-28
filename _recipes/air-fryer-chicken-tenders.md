@@ -7,18 +7,18 @@ total_time: 17 mins
 servings: 6
 tags: baking chicken gluten-free air-fry instant-pot
 uri: https://enjoycleaneating.com/air-fryer-chicken-tenders/
-comment_issue_id: 1
+comment_issue_id: 2
 ---
 ## Ingredients
-- <input type="checkbox"> 1.5 lbs chicken tenders
-- <input type="checkbox"> salt and black pepper
-- <input type="checkbox"> ½ cup grated parmesan cheese
-- <input type="checkbox"> 1 tablespoon paprika
-- <input type="checkbox"> 1 teaspoon garlic powder
-- <input type="checkbox"> 1 teaspoon oregano
-- <input type="checkbox"> ¼ teaspoon ground thyme (optional)
-- <input type="checkbox"> ¼ teaspoon ground mustard (optional)
-- <input type="checkbox"> 1 tablespoon unsalted Italian seasoning
+- [ ] 1.5 lbs chicken tenders
+- [ ] salt and black pepper
+- [ ] ½ cup grated parmesan cheese
+- [ ] 1 tablespoon paprika
+- [ ] 1 teaspoon garlic powder
+- [ ] 1 teaspoon oregano
+- [ ] ¼ teaspoon ground thyme (optional)
+- [ ] ¼ teaspoon ground mustard (optional)
+- [ ] 1 tablespoon unsalted Italian seasoning
 
 ## Instructions
 1. In a small bowl combine the parmesan cheese, paprika, garlic powder, oregano, thyme, mustard and Italian seasoning, set aside.

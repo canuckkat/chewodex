@@ -8,6 +8,7 @@ servings: 1 loaf
 srcset: AIR-FRYER-CHICKEN-TENDER-2-1-of-1-720x1081.jpg 720,AIR-FRYER-CHICKEN-TENDER-2-1-of-1-360x540.jpg 360w
 tags: baking bread gluten-free air-fry instant-pot
 uri: https://missvickie.com/instant-pot-gluten-free-bread/
+comment_issue_id: 1
 ---
 # Ingredients
 
