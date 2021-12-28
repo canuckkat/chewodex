@@ -236,6 +236,7 @@ body.recipes h3.recipe-title { margin-bottom: 0; }
 
 .recipe .task-list { list-style: none; padding-left: 0; }
 .recipe .task-list .task-list-item-checkbox { margin-right: 6px; }
+.recipe ol { padding-left: 1em; }
 
 /** Based on CSS by Maroun Baydoun: https://gist.github.com/maroun-baydoun/4188213
 **/
