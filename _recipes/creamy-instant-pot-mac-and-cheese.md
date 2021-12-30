@@ -15,13 +15,13 @@ comment_issue_id: 10
 - [ ] 16 oz pasta
 - [ ] 3 tablespoons butter
 - [ ] 1 tsp dry mustard
-- [ ] 1/2 tsp garlic salt
-- [ ] 1/2 tsp salt
+- [ ] ½ tsp garlic salt
+- [ ] ½ tsp salt
 - [ ] 4 cups water
 - [ ] 5 oz can evaporated milk
 - [ ] 3 cups shredded extra-sharp cheddar cheese
 - [ ] 1 cup shredded Monterey Jack
-- [ ] 1/4 cup shredded Parmesan cheese
+- [ ] ¼ cup shredded Parmesan cheese
 
 # Directions
 

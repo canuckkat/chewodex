@@ -25,7 +25,7 @@ comment_issue_id: 2
 
 2. Season chicken tenders with salt and black pepper to taste, roll the chicken tenders into the mix until well coated.
 
-3. Place the chicken tender inside of the air fryer basket, put the basket into the inner pot, place the air fryer lid on top. Set the temperature Air fry to 385F for 12 minutes. <mark>Make sure the Instant Pot pressure cooker isn’t plugged in.</mark>
+3. Place the chicken tender inside of the air fryer basket, put the basket into the inner pot, place the air fryer lid on top. Set the temperature Air fry to 385&deg;F for 12 minutes. <mark>Make sure the Instant Pot pressure cooker isn’t plugged in.</mark>
 
 4. The Instant Pot air fryer lid will pause in the middle of the cooking time and tell you when it is time to flip your chicken tenders, flip the chicken tenders, and place the lid back on.
 

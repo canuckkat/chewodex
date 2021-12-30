@@ -3,11 +3,11 @@ layout: default
 ---
 <div class="post">
 {% comment %}Check to see if it's the tags index{% endcomment %}
-{% if page.tags contains 'archive' and page.tags.size < 2 %}<h2 class="page-title">All Recipe Tags</h2>
+{% if page.tags contains 'archive' and page.tags.size < 2 %}<h1 class="page-title">All Recipe Tags</h1>
 {% assign tags = site.recipes | map: 'tags' | uniq | sort %}
 <ul class="recipe-list">{% for tag in tags %}{% if tag != 'archive' %}
     <li>
-        <h3 class="tag-name"><a href="/recipes/tag/{{ tag | slugify }}/">{{ tag | replace:'-', ' ' }}</a></h3>
+        <h2 class="tag-name"><a href="/recipes/tag/{{ tag | slugify }}/">{{ tag | replace:'-', ' ' }}</a></h2>
         <ul>{% for post in site.recipes %}{% unless post.tags contains 'archive' %}{% if post.tags contains tag %}
             <li>
                 <a href='{{ post.url | relative_url }}'>{{ post.title }}</a>
@@ -16,7 +16,7 @@ layout: default
     </li>{% endif %}{% endfor %}
 </ul>
 {% comment %}Since it's not the tags index{% endcomment %}
-{% else %}<h2>{{ page.title }}</h2>
+{% else %}<h1>{{ page.title }}</h1>
 {% comment %}Remove the archive tag
 {% assign tag = page.tags | join: ',' | remove: 'archive' | split: ',' %}{% endcomment %}
 {% if page.tags.size == 2 %}{% assign tag = page.tags | join: ',' | remove: 'archive' | split: ','  | join: '' %}{% endif %}
