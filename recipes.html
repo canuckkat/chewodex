@@ -5,15 +5,15 @@ permalink: /recipes/
 ---
 <h1>{{ page.title }}</h1>
 
-{% for recipe in site.recipes %}{% unless recipe.tags contains 'archive' %}
+{% for post in site.recipes %}{% unless post.tags contains 'archive' %}
 <div class="recipe">
 {%comment%}
-{% if recipe.srcset %}
-  <div class="recipe-img-wrapper"><img srcset="{{ recipe.srcset | split: ',' | prepend: '/assets/img/recipes/' | relative_url | join: ',' }}" src="{{ recipe.srcset | split: ',' | pop | join: ''| split: ' ' | pop | join: '' | prepend: '/assets/img/recipes/' | relative_url }}" width="200px" alt="{{ recipe.title }}" class="recipe-img"></div>
+{% if post.srcset %}
+  <div class="recipe-img-wrapper"><img srcset="{{ post.srcset | split: ',' | prepend: '/assets/img/recipes/' | relative_url | join: ',' }}" src="{{ post.srcset | split: ',' | pop | join: ''| split: ' ' | pop | join: '' | prepend: '/assets/img/recipes/' | relative_url }}" width="200px" alt="{{ post.title }}" class="recipe-img"></div>
   {% endif %}
 {%endcomment%}
-  <h3 class="recipe-title"><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h3>
-  {% include recipe-tags-icons.html tags=recipe.tags %}
-  {% include recipe-info.html servings=recipe.servings preptime=recipe.prep_time cooktime=recipe.cook_time totaltime=recipe.total_time %}
+  <h3 class="recipe-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% if post.made %}&nbsp;<span class="green"><i class="far fa-check-circle"></i></span>{% endif %}</h3>
+  {% include recipe-tags-icons.html tags=post.tags %}
+  {% include recipe-info.html servings=post.servings preptime=post.prep_time cooktime=post.cook_time totaltime=post.total_time %}
 </div>
 {% endunless %}{% endfor %}

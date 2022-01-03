@@ -42,7 +42,7 @@ Before trimming, I recommend washing your Brussels sprouts to remove any dirt.
 
 * **Pan Fried Brussels Sprouts with Parmesan.** Toss a handful of Parmesan over the sprouts at the end. Feta and goat cheese are other, super tasty options.
 
-* **Sautéed Brussels Sprouts with Onions.** Add 1/2 cup of thinly sliced onions to the pan with your Brussels sprouts. They’ll crisp and caramelize in a most excellent way.
+* **Sautéed Brussels Sprouts with Onions.** Add ½ cup of thinly sliced onions to the pan with your Brussels sprouts. They’ll crisp and caramelize in a most excellent way.
 
 * **Pan Sautéed Brussels Sprouts with Toasted Nuts.** Stir a handful of chopped, raw nuts into the pan with the Brussels sprouts at the very end. Continue stirring, allowing the residual heat from the pan to toast the nuts. For today’s recipe, I used pine nuts. Walnuts and pecans are two of our other favorites.
 

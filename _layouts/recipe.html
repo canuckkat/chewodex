@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="recipe">
-    <h1>{{ page.title }}</h1>
+    <h1 class="title">{{ page.title }}{% if page.made %}&nbsp;<span class="green"><i class="far fa-check-circle"></i></span>{% endif %}</h1>
     {% if page.uri %}<p>Source: <a href="{{ page.uri }}">{{ page.uri }}</a></p>{% endif %}
     <!-- <p>{{ page.date | date_to_string }} - {{ page.author }}</p> -->
 

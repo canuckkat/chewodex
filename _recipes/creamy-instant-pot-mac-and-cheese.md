@@ -4,14 +4,14 @@ title: Creamy Instant Pot Mac and Cheese
 prep_time: 1 min
 cook_time: 10 mins
 total_time: 11 mins
-servings: 8 servings
+servings: 8
 tags: vegetarian instant-pot pasta
 uri: https://www.familyfreshmeals.com/2017/07/creamy-instant-pot-mac-and-cheese.html
 comment_issue_id: 10
+made: true
 ---
 
 # Ingredients
-
 - [ ] 16 oz pasta
 - [ ] 3 tablespoons butter
 - [ ] 1 tsp dry mustard
@@ -24,7 +24,6 @@ comment_issue_id: 10
 - [ ] ¼ cup shredded Parmesan cheese
 
 # Directions
-
 1. Place the dry pasta, butter, garlic salt, salt, dry mustard and water into the IP cooker pot. Place the lid on the top and seal the toggle switch. Press manual (high) and timer for 4 minutes.
 
 2. When cooking time is complete, do a quick release and remove the lid when the pin drops.

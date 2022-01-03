@@ -225,6 +225,8 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 } */
 body { padding: 50px 0; margin: 0; }
 
+.green { color: #008000; }
+
 .btn { background: #0B61A4; border-radius: 0.25rem; border: 0; padding: 0.35rem 0.7rem; color: #fff; font-weight: 700; }
 
 .post-content h2, .post-content h3 { margin-bottom: 6px; }
@@ -242,6 +244,7 @@ body.recipes h3.recipe-title { margin-bottom: 0; }
 
 .recipe-tags { margin: .25em; }
 
+.recipe .title { margin-bottom: 0; }
 .recipe ul { padding-left: 1.25em; }
 .recipe ul:first-of-type, .recipe .task-list { list-style: none; padding-left: 0; }
 .recipe ul:first-of-type .task-list-item-checkbox, .recipe .task-list .task-list-item-checkbox { margin-right: 6px; }
@@ -283,3 +286,6 @@ body.recipes h3.recipe-title { margin-bottom: 0; }
 .cloud li.tag25 { font-size: 3.65em; line-height: 29.85px; height: 29.85px; }
 
 #cookie-notice { font-size: .8rem; }
+
+/* Widgets */
+.tagcloud .title { text-transform: uppercase; font-weight: 400; margin-bottom: 3px; font-size: 14px; }

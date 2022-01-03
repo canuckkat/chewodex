@@ -33,7 +33,7 @@ uri: https://www.airfryeryum.com/air-fryer-shortbread-cookies-3-ingredients-only
 
 5. Line air fryer basket with non perforated parchment paper making sure there is atleast 2 inches of room round to ensure proper heat and air circulation.
 
-6. Transfer cookies to the air fryer basket and bake at 330°F / 166°C for 8 to 10 mins. Let cookies cool slightly in the air fryer for about 5 mins before transferring to a cooling rack with a cookie lifter to cool completely.
+6. Transfer cookies to the air fryer basket and bake at 330&deg;F / 166&deg;C for 8 to 10 mins. Let cookies cool slightly in the air fryer for about 5 mins before transferring to a cooling rack with a cookie lifter to cool completely.
 
 ### How To Store
 Let cookies cool completely and store in an air tight container for up to 5 days

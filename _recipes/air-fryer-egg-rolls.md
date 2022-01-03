@@ -33,8 +33,8 @@ comment_issue_id: 8
 
 4. Mix 1 tablespoon flour with just enough water to make a paste.
 
-5. Lay out egg roll wrappers and place about 1/3 cup filling in each. Fold diagonally, fold sides in and roll up sealing the tip with a little bit of the flour paste.
+5. Lay out egg roll wrappers and place about ⅓ cup filling in each. Fold diagonally, fold sides in and roll up sealing the tip with a little bit of the flour paste.
 
 6. Brush the outside of each egg roll with a little bit of vegetable oil or spray with cooking spray.
 
-7. Place in the air fryer basket 3-4 at a time and cook at 390°F for 8 minutes. Flip and cook an additional 3 minutes.
+7. Place in the air fryer basket 3-4 at a time and cook at 390&deg;F for 8 minutes. Flip and cook an additional 3 minutes.

@@ -10,7 +10,7 @@ layout: default
         <h2 class="tag-name"><a href="/recipes/tag/{{ tag | slugify }}/">{{ tag | replace:'-', ' ' }}</a></h2>
         <ul>{% for post in site.recipes %}{% unless post.tags contains 'archive' %}{% if post.tags contains tag %}
             <li>
-                <a href='{{ post.url | relative_url }}'>{{ post.title }}</a>
+                <a href='{{ post.url | relative_url }}'>{{ post.title }}</a>{% if post.made %}&nbsp;<span class="green"><i class="far fa-check-circle"></i></span>{% endif %}
             </li>{% endif %}{% endunless %}{% endfor %}
         </ul>
     </li>{% endif %}{% endfor %}

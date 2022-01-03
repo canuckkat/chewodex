@@ -71,7 +71,7 @@ comment_issue_id: 3
 
 ## Aebleskiver Falafel Recipe
 
-1. Pour 1/2 a teaspoon of oil into each cavity of the aebleskiver pan and wait for the oil to get hot.
+1. Pour ½ a teaspoon of oil into each cavity of the aebleskiver pan and wait for the oil to get hot.
 
 2. Place each falafel ball into the cavity and cook on slow to medium heat for about 5-7 minutes.
 

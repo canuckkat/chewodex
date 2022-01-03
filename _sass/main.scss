@@ -3,6 +3,9 @@
 $pink: #DB0058;
 $darkBlue: #0B61A4;
 $white: #fff;
+$green: #008000;
+
+$default-font-size: 14px;
 
 /* body {
   padding: 2em;
@@ -11,6 +14,10 @@ $white: #fff;
 body {
   padding: 50px 0;
   margin: 0;
+}
+
+.green {
+  color: $green;
 }
 
 .btn {
@@ -64,6 +71,9 @@ body.recipes {
 }
 
 .recipe {
+  .title {
+    margin-bottom: 0;
+  }
 
   ul {
     padding-left: 1.25em;
@@ -141,4 +151,14 @@ body.recipes {
 
 #cookie-notice {
   font-size: .8rem;
+}
+
+/* Widgets */
+.tagcloud {
+  .title {
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: 3px;
+    font-size: $default-font-size;
+  }
 }

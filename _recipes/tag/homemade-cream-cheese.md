@@ -53,4 +53,4 @@ Adapted from https://www.biggerbolderbaking.com/how-to-make-cream-cheese/.
 ## Notes
 **Small Curds:** I have heard feedback that lemon juice yields a smaller amount of curd than vinegar, and this may very well be true for pasteurized milk. Choose a white vinegar, cider vinegar/white wine vinegar will do it. When using lemon juice use it fresh from the fruit.
 
-**Salt:** Just add 1/4 teaspoon of salt and then taste. If you would like it saltier then feel free to add more.
+**Salt:** Just add ¼ teaspoon of salt and then taste. If you would like it saltier then feel free to add more.

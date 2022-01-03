@@ -11,9 +11,9 @@ comment_issue_id: 12
 ---
 ## Ingredients
 - [ ] 2 ½ cups (325 grams) all-purpose flour
-- [ ] 1 tsp kosher salt or use 1/2 tsp fine sea salt
+- [ ] 1 tsp kosher salt or use ½ tsp fine sea salt
 - [ ] 1 Tbsp sugar, optional
-- [ ] 1 cup (230 grams) very cold unsalted butter, cut into 1/2-inch cubes (2 sticks)
+- [ ] 1 cup (230 grams) very cold unsalted butter, cut into ½-inch cubes (2 sticks)
 - [ ] 4 to 8 Tbsp ice water
 
 ## Directions
@@ -29,7 +29,7 @@ comment_issue_id: 12
 5. Remove dough from bowl and place in a mound on a clean surface. Work the dough just enough to form a ball. Cut the ball in half then form each half into discs. Wrap each disc with plastic wrap and refrigerate for at least 1 hour and up to 2 days. You can also freeze it for up to 3 months (just thaw it overnight in the fridge before using it).
 
 ### METHOD WHEN MAKING BY HAND
-1. Add 1 1/2 cups flour, salt and sugar (optional) to a medium bowl. Stir 2 to 3 times until combined.
+1. Add 1 ½ cups flour, salt and sugar (optional) to a medium bowl. Stir 2 to 3 times until combined.
 
 2. Scatter butter cubes over flour and mix briefly with a fork or spatula to coat the butter with flour.
 
@@ -48,9 +48,9 @@ comment_issue_id: 12
 
 3. Check for size by inverting pie dish over dough round. Look for a 1-inch edge around the pie dish. To transfer dough to dish, starting at one end, roll dough around rolling pin then unroll over dish.
 
-4. Gently press dough down into dish so that it lines the bottom and sides of the dish. (Be careful not to pull or stretch the dough). Then, use a knife or pair of kitchen scissors to trim dough to within 1/2-inch of the edge of the dish.
+4. Gently press dough down into dish so that it lines the bottom and sides of the dish. (Be careful not to pull or stretch the dough). Then, use a knife or pair of kitchen scissors to trim dough to within ½-inch of the edge of the dish.
 
-5. Fold edge of dough underneath itself so that it creates a thicker, 1/4-inch border that rests on the lip of the dish. Then, crimp edges by pressing the pointer finger of one hand against the edge of the dough from the inside of the dish while gently pressing with two knuckles of the other hand from the outside. Refrigerate dough at least 20 minutes or freeze for 5 minutes before baking.
+5. Fold edge of dough underneath itself so that it creates a thicker, ¼-inch border that rests on the lip of the dish. Then, crimp edges by pressing the pointer finger of one hand against the edge of the dough from the inside of the dish while gently pressing with two knuckles of the other hand from the outside. Refrigerate dough at least 20 minutes or freeze for 5 minutes before baking.
 
 6. If making a double crust pie, do not crimp edges yet. Roll out second dough disc, fill pie then top with second dough round. Trim the edges then crimp.
 
@@ -72,8 +72,8 @@ comment_issue_id: 12
 
 3. Check for size by inverting pie dish over dough round. Look for a 1-inch edge around the pie dish. Carefully press the dough into the dish. Spoon the pie filling into pie crust.
 
-4. Roll out second half of dough then top pie. Use a knife or pair of kitchen scissors to trim dough to within 3/4-inch of the edge of the dish.
+4. Roll out second half of dough then top pie. Use a knife or pair of kitchen scissors to trim dough to within ¾-inch of the edge of the dish.
 
-5. Fold edges of top crust underneath edges of bottom crust, pressing the edge to seal it so that it creates a thicker, 1/4-inch border that rests on the lip of the dish. Then, crimp edges by pressing the pointer finger of one hand against the edge of the dough from the inside of the dish while gently pressing with two knuckles of the other hand from the outside. Refrigerate pie at least 20 minutes or freeze for 5 minutes before baking.
+5. Fold edges of top crust underneath edges of bottom crust, pressing the edge to seal it so that it creates a thicker, ¼-inch border that rests on the lip of the dish. Then, crimp edges by pressing the pointer finger of one hand against the edge of the dough from the inside of the dish while gently pressing with two knuckles of the other hand from the outside. Refrigerate pie at least 20 minutes or freeze for 5 minutes before baking.
 
 6. Just before baking, make egg wash by whisking egg yolk and cream together in a small bowl. Use a pastry brush to brush over the top crust. Then, sprinkle with 1 tablespoon of sugar. Then, cut 3 to 4 slits in top of pie. Bake as directed by the specific recipe you are following.

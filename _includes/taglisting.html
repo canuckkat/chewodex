@@ -3,9 +3,9 @@
 {% for tag in tags %}
 <h3 id="{{ tag | slugify }}" class="tag-name">{{ tag | replace:'-', ' ' }} ({{ tag.size }})</h3>
 <ul>
-  {% for recipe in site.recipes %}
-  {% if recipe.tags contains tag %}
-  <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+  {% for post in site.recipes %}
+  {% if post.tags contains tag %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endif %}
   {% endfor %}
 </ul>

@@ -25,4 +25,4 @@ In a large bowl, place the flour, xanthan gum, baking powder and salt, and whisk
 Flatten each chunk of butter between your thumb and forefinger. Add the sour cream, and mix to moisten the dry ingredients with the sour cream. The dough should be shaggy and somewhat crumbly.
 Knead the dough together with clean hands until it begins to come together. Add ice water by the teaspoon only if necessary for the dough to hold together.
 Turn the dough out onto a sheet of plastic wrap, and press into a disk as you close the plastic wrap around the dough. It will still seem rough. Place the dough in the refrigerator to chill for 30 minutes.
-Preheat your oven to 375°F. Grease a 9-inch metal pie plate generously and set aside.
+Preheat your oven to 375&deg;F. Grease a 9-inch metal pie plate generously and set aside.

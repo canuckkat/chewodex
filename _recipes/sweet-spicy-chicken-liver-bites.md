@@ -15,12 +15,12 @@ uri: https://ketodietapp.com/Blog/lchf/sweet-and-spicy-chicken-liver-bites
 
 ## Ingredients
 - [ ] 12 pieces chicken liver (340 g/ 12 oz)
-- [ ] 1/2 tsp sea salt
+- [ ] ½ tsp sea salt
 - [ ] 12 slices of bacon (450 g/ 1 lb)
 - [ ] 1 tbsp sugar
 - [ ] 1 tsp paprika
-- [ ] 1/2 tsp cayenne, or to taste
-- [ ] 1/2 tsp black pepper
+- [ ] ½ tsp cayenne, or to taste
+- [ ] ½ tsp black pepper
 
 ## Instructions
 1. Preheat your ovens broiler and line a baking sheet with aluminum foil.

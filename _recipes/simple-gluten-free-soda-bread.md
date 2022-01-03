@@ -7,9 +7,10 @@ title: Simple Gluten-Free Soda Bread
 servings: 1 loaf
 srcset: AIR-FRYER-CHICKEN-TENDER-2-1-of-1-720x1081.jpg 720,AIR-FRYER-CHICKEN-TENDER-2-1-of-1-360x540.jpg 360w
 tags: baking bread gluten-free air-fry instant-pot
-uri: https://missvickie.com/instant-pot-gluten-free-bread/
-comment_issue_id: 1
+# uri: https://missvickie.com/instant-pot-gluten-free-bread/
+# comment_issue_id: 1
 ---
+Adapted from: [https://missvickie.com/instant-pot-gluten-free-bread/](https://missvickie.com/instant-pot-gluten-free-bread/).
 # Ingredients
 
 * 2 cups all-purpose commercial gluten-free flour mix
@@ -29,4 +30,4 @@ comment_issue_id: 1
 
 4. Allow the cooker to naturally release the pressure before removing the loaf. Bread internal temporature should be around 180-190&deg;F.
 
-5. Brown the top if you like either in the oven or with the air fryer lid at 400&deg;F for about 20 minutes. Cool the loaf out onto a wire rack.
+5. Brown the top if you like either in the oven or with the air fryer lid at 400&deg;F for 10-20 minutes. Cool the loaf out onto a wire rack.

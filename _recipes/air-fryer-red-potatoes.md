@@ -19,6 +19,6 @@ comment_issue_id: 7
 - [ ] ¼ tsp pepper
 
 # Directions
-1. Preheat air fryer to 400°. Drizzle potatoes with oil. Sprinkle with rosemary, garlic, salt and pepper; toss gently to coat.
+1. Preheat air fryer to 400&deg;. Drizzle potatoes with oil. Sprinkle with rosemary, garlic, salt and pepper; toss gently to coat.
 
 2. Place on ungreased tray in air-fryer basket. Cook until potatoes are golden brown and tender, 10-12 minutes, stirring once.

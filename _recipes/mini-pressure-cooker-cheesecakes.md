@@ -4,7 +4,7 @@ title: Mini Pressure Cooker Cheesecakes
 prep_time: 3 hrs 15 mins
 cook_time: 3 mins
 total_time: 3 hrs 18 mins
-servings: 5-6 servings
+servings: 5-6
 tags: instant-pot dairy
 uri: https://ohsodelicioso.com/mini-pressure-cooker-cheesecakes/, https://www.dadcooksdinner.com/instant-pot-mini-cheesecakes/
 # comment_issue_id: 12

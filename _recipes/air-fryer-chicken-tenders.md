@@ -36,6 +36,6 @@ Once the time is done, open your Instant Pot air fryer lid, remove the chicken t
 Serve to your liking.
 
 ## Notes
-* If you want the chicken tenders crispier, cook for extra 5 minutes on 400F air fry, but be aware the tenders could be on the dry side.
+* If you want the chicken tenders crispier, cook for extra 5 minutes on 400&deg;F air fry, but be aware the tenders could be on the dry side.
 
 * You can omit the grated cheese and cook the chicken tenders with just the seasoning.
