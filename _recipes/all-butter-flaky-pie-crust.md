@@ -5,7 +5,7 @@ prep_time: 1hr 15mins
 # cook_time: 15 mins
 total_time: 1hr 15mins
 servings: 9-inch double crust pie
-tags: dairy baking
+tags: dairy baking butter
 uri: https://www.inspiredtaste.net/22662/flaky-pie-crust-recipe/
 comment_issue_id: 12
 ---

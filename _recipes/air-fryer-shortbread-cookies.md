@@ -5,7 +5,7 @@ prep_time: 10 mins
 cook_time: 8-10 mins
 total_time: 25 mins
 servings: 12 cookies
-tags: baking vegan cookies small-batch
+tags: baking vegan cookies small-batch dairy butter
 uri: https://www.airfryeryum.com/air-fryer-shortbread-cookies-3-ingredients-only/
 # comment_issue_id: 12
 ---

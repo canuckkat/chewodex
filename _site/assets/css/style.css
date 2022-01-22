@@ -250,6 +250,10 @@ body.recipes h3.recipe-title { margin-bottom: 0; }
 .recipe ul:first-of-type .task-list-item-checkbox, .recipe .task-list .task-list-item-checkbox { margin-right: 6px; }
 .recipe ol:first-of-type { padding-left: 1em; }
 
+.recipe-filter { list-style: none; display: flex; flex: 1 0 250px; flex-wrap: wrap; flex-direction: row; align-items: center; padding-left: 0; }
+.recipe-filter .recipe-filter-item { padding-right: 1em; }
+.recipe-filter label { word-break: false; }
+
 /** Based on CSS by Maroun Baydoun: https://gist.github.com/maroun-baydoun/4188213
 **/
 .tagcloud { padding: 1em 1em 1em 0; }

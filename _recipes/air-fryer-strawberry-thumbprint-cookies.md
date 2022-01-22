@@ -5,7 +5,7 @@ prep_time: 10 mins
 cook_time: 8-10 mins
 total_time: 25 mins
 servings: 12-16 cookies
-tags: baking cookies small-batch vegan
+tags: baking cookies small-batch vegan butter
 uri: https://www.airfryeryum.com/air-fryer-strawberry-thumbprint-cookies/
 # comment_issue_id: 12
 ---

@@ -11,3 +11,41 @@ var tlic = document.getElementsByClassName('task-list-item-checkbox');
 Array.prototype.forEach.call(tlic, (item) => item.removeAttribute('disabled'));
 </script>
 {% endif %}
+{% if page.title == 'Recipes' %}
+<script>
+    jQuery(document).ready(function() {
+        /* $('#recipe-filter-made').on('change',function() {
+            // console.log('Made button changed!');
+            // $('#' + $(this).attr('id')).toggle(this.checked);
+            if ($(this).prop('checked')) {
+                $('.recipe:not(.made)').hide(200);
+                // console.log('Hide recipes not made.');
+            } else {
+                $('.recipe').show(300);
+            }
+        }); */
+        $('input[name="recipe_tag"]').change(function() {
+            // console.log('id: '+ $(this).attr('id'));
+            if ($(this).attr('id') != 'recipe-filter-made') {
+                // console.log('Tag button changed!');
+                // console.log('class: '+'.recipe.'+$(this).attr('value'));
+                if ($(this).prop('checked')) {
+                    //TODO: show based on made status
+                    $('.recipe.'+$(this).attr('value')).show(300);
+                } else {
+                    $('.recipe.'+$(this).attr('value')).hide(200);
+                }
+            } else {
+                // console.log('Made button changed!');
+                // $('#' + $(this).attr('id')).toggle(this.checked);
+                if ($(this).prop('checked')) {
+                    $('.recipe:not(.made)').hide(200);
+                    // console.log('Hide recipes not made.');
+                } else {
+                    $('.recipe').show(300);
+                }
+            }
+        });
+    });
+</script>
+{% endif %}

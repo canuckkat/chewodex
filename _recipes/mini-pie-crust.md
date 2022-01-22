@@ -5,7 +5,7 @@ prep_time: 10 mins
 cook_time: 20 mins
 total_time: 50 mins
 servings: 1 person
-tags: baking small-batch
+tags: baking small-batch butter dairy
 uri: https://onedishkitchen.com/pie-crust-recipe/
 # comment_issue_id: 12
 ---
@@ -15,10 +15,10 @@ uri: https://onedishkitchen.com/pie-crust-recipe/
 - [ ] mini pie pan
 
 ## Ingredients
-- [ ] 5 tablespoons all-purpose flour
+- [ ] 40g all-purpose flour
 - [ ] 1 teaspoon granulated sugar
 - [ ] ⅛ teaspoon salt
-- [ ] 2 tablespoons salted butter , cold
+- [ ] 2 tablespoons salted butter, cold
 - [ ] 2 teaspoons ice water
 
 ## Instructions

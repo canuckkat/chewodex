@@ -33,3 +33,28 @@ Adapted from https://fermentaholics.com/how-to-brew-jun-tea/.
 5. The addition of the water should bring the tea mixture to about room temperature or below 80&deg;F. Just make sure it’s cool to the touch before moving on.
 6. Add your Jun starter culture (pellicle with 12 fl oz or 1.5-2 cups of mature jun starter tea).
 7. Cover the jar and leave it to ferment ideally between 75-78&deg;F. Start tasting after day 5 to asses the progress. If it is still too sweet, allow it to continue fermenting as the full fermentation can take up to 21 days.
+
+## Notes
+You'll want 1:6-8 starter to tea ratio.
+
+| Container | Ratio | 1 Quart | 1/2 Gallon | 1 Gallon |
+| --- | --- | --- | --- | --- |
+| **Starter** 🍺 | 1 part | 1/2 cup | 1 cup | 2 cups |
+| **Tea** 🌿 |  | 1.5 tsp | 1 Tbsp | 2 Tbsp |
+| **Water** 💦 | 6-8 part | 2-4 cups | 6-8 cups | 12-16 cups |
+| **Honey** 🍯 | 1 part | 1/2 cup | 1 cup | 2 cup |
+
+
+<!-- | Container | Starter | Water | Honey |
+| --- | --- | --- | --- |
+| | 1 part | 6-8 part | 1 part of starter |
+| 1 quart | 1/2 cup | 2-4 cups | 1/2 cup |
+| 1/2 gallon | 1 cup | 6-8 cups | 1 cup |
+| 1 gallon | 2 cup | 12-16 cups | 2 cup | -->
+
+Containers: 1 quart = 1L = 4 cups
+
+## Second Ferment
+Reserve what you need for the next batch of 1F (i.e. for 1qt container, you'll need to save 1/2 cup of starter).
+
+For a 16 oz bottle (473ml), add 10-20% as flavouring including 3 or 4 oz (~100ml, 1/3-1/2 cup) of pineapple juice or pineapple.

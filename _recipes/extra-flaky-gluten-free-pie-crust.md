@@ -5,7 +5,7 @@ prep_time: 20 mins
 cook_time: 10 mins
 # total_time: 15 mins
 servings: 1 10-inch pie crust
-tags: baking gluten-free
+tags: baking gluten-free dairy butter
 uri: https://glutenfreeonashoestring.com/extra-flaky-gluten-free-sour-cream-pie-crust/
 # comment_issue_id: 12
 ---

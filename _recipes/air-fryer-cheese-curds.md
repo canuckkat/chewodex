@@ -5,7 +5,7 @@ title: Air-Fryer Cheese Curds
 cook_time: 5-7 mins
 total_time: 35 mins
 servings: 4
-tags: baking dairy air-fryer gluten-free
+tags: baking dairy cheese air-fry gluten-free
 # uri: https://www.wisconsincheese.com/recipes/3735/air-fryer-cheese-curds
 # comment_issue_id: 12
 made: true
@@ -15,6 +15,7 @@ Adapted from: [https://www.wisconsincheese.com/recipes/3735/air-fryer-cheese-cur
 ## Equipment
 - [ ] wax paper or aluminum foil
 - [ ] cooking spray
+- [ ] air fryer
 
 ## Ingredients
 - [ ] 1 cup all-purpose flour or corn starch

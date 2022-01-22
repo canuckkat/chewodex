@@ -20,7 +20,7 @@ published: false
 - [ ] ½ cup milk
 
 ## Instructions
-1. Heat oven to 400 degrees F and line a baking sheet with parchment paper.
+1. Heat oven to 400&deg;F and line a baking sheet with parchment paper.
 
 2. In a large bowl, whisk together flour, baking powder, sugar, and salt.
 

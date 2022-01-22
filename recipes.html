@@ -4,9 +4,28 @@ title: Recipes
 permalink: /recipes/
 ---
 <h1>{{ page.title }}</h1>
-
+<ul class="recipe-filter">
+{% assign tags = site.recipes | map: 'tags' | uniq | sort %}
+{% for tag in tags %}
+{% if tag != 'archive' %}
+  <li class="recipe-filter-item">
+    <input type="checkbox" name="recipe_tag" id="recipe-filter-{{ tag | slugify }}" value="{{ tag | slugify }}" checked>
+    <label for="recipe-filter-{{ tag | slugify }}">{{ tag | replace:'-', ' ' }}</label>
+  </li>
+{% endif %}
+{% endfor %}
+  <li class="recipe-filter-item">
+    <input type="checkbox" name="recipe_tag" id="recipe-filter-made" value="made">
+    <label for="recipe-filter-made">made &nbsp;<span class="green"><i class="far fa-check-circle"></i></span></label>
+  </li>
+</ul>
 {% for post in site.recipes %}{% unless post.tags contains 'archive' %}
-<div class="recipe">
+{% assign recipe_classes = '' %}
+{% for tag in post.tags %}
+{% assign recipe_classes = recipe_classes | append: ' ' | append: tag %}
+{% endfor %}
+{% if post.made %}{% assign recipe_classes = recipe_classes | append: ' made' %}{% endif %}
+<div class="recipe {{ recipe_classes | strip }}">
 {%comment%}
 {% if post.srcset %}
   <div class="recipe-img-wrapper"><img srcset="{{ post.srcset | split: ',' | prepend: '/assets/img/recipes/' | relative_url | join: ',' }}" src="{{ post.srcset | split: ',' | pop | join: ''| split: ' ' | pop | join: '' | prepend: '/assets/img/recipes/' | relative_url }}" width="200px" alt="{{ post.title }}" class="recipe-img"></div>

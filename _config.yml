@@ -1,4 +1,6 @@
 # build settings
+exclude: [fracs.txt, tag/hololens, assets/img]
+
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:

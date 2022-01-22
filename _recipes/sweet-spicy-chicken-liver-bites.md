@@ -8,6 +8,7 @@ servings: 12 pieces
 tags: baking chicken bacon
 uri: https://ketodietapp.com/Blog/lchf/sweet-and-spicy-chicken-liver-bites
 # comment_issue_id: 12
+made: true
 ---
 ## Equipment
 - [ ] baking sheet

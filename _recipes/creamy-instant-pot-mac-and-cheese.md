@@ -10,8 +10,10 @@ uri: https://www.familyfreshmeals.com/2017/07/creamy-instant-pot-mac-and-cheese.
 comment_issue_id: 10
 made: true
 ---
+## Equipment
+- [ ] Instant Pot
 
-# Ingredients
+## Ingredients
 - [ ] 16 oz pasta
 - [ ] 3 tablespoons butter
 - [ ] 1 tsp dry mustard
@@ -23,7 +25,7 @@ made: true
 - [ ] 1 cup shredded Monterey Jack
 - [ ] ¼ cup shredded Parmesan cheese
 
-# Directions
+## Directions
 1. Place the dry pasta, butter, garlic salt, salt, dry mustard and water into the IP cooker pot. Place the lid on the top and seal the toggle switch. Press manual (high) and timer for 4 minutes.
 
 2. When cooking time is complete, do a quick release and remove the lid when the pin drops.
